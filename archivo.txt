@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Ambos modificamos esta 
-
-g
-=======
 Ambos modificamos esta linea
-fea la linea de arriba 
+fea la linea de arriba ss
 aaaaaaaa
->>>>>>> origin
